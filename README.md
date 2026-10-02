@@ -4,6 +4,11 @@
 
 <h1 align="center">picaroa</h1>
 
+<p align="center">
+  <strong>An unofficial, independent app for <a href="https://github.com/mtlynch/picoshare">PicoShare</a>.</strong><br>
+  Not affiliated with, developed, endorsed or reviewed by the maintainers of PicoShare.
+</p>
+
 <p align="center"><strong>Share files from your own server. No cloud required.</strong></p>
 
 <p align="center">
@@ -24,8 +29,9 @@
 
 ---
 
-> picaroa is an independent, unofficial community client. It is not part of the official
-> PicoShare project — with respect and thanks to the team that builds and maintains it.
+> picaroa is a community project by Sven Hanold. It is not part of the official PicoShare
+> project. The name PicoShare is used here only to say what this app connects to —
+> with respect and thanks to the people who build and maintain it.
 
 ## Screenshots
 
